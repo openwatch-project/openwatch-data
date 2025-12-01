@@ -1,0 +1,17 @@
+id: 1764571233225-weqkrask3
+submitted: "2025-12-01T06:40:33.226Z"
+source: user
+date: 2025-12-01
+time: "00:39"
+location: Chicago, Illinois, United States
+type: traffic_stop
+description: |
+  Two officers, unmarked squad car. Stopping people at random. 
+  
+  NOTE: THIS IS A TEST ENTRY. 
+tags:
+  - unmarked-vehicle
+  - random-stops
+  - traffic-stop
+officers: 2
+vehicle_description: unmarked squad car
