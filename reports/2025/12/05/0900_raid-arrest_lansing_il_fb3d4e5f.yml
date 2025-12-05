@@ -1,0 +1,14 @@
+id: fb3d4e5f
+submitted: 2025-12-05T15:00:00.000Z
+source: "social"
+date: "2025-12-05"
+time: "09:00"
+location: "Lansing Police Department, Lansing, IL"
+lat: 41.5647
+lng: -87.5389
+type: raid_arrest
+description: "ICE agents in alley at Lansing police station. One person arrested."
+tags:
+  - lansing
+  - arrest
+civilians: 1
