@@ -5,7 +5,8 @@ source: "Reuters"
 date: "2025-10-27"
 time: "09:00"
 location: "East Side neighborhood, Chicago, IL"
-
+lat: 41.7067
+lng: -87.5347
 type: ice
 description: "Federal agents conducted immigration raid in the East Side neighborhood. Multiple detentions reported as part of ongoing Operation Midway Blitz."
 
