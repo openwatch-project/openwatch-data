@@ -5,7 +5,8 @@ source: "Chicago Sun-Times"
 date: "2025-11-29"
 time: "12:00"
 location: "Magnificent Mile, Michigan Avenue, Chicago, IL"
-
+lat: 41.8949
+lng: -87.6244
 type: protest
 description: "Pro-Palestinian protesters blocked traffic on Michigan Avenue for approximately one hour during Black Friday. About 100 protesters marched from Water Tower Park. Police on bicycles and foot blocked intersections. Several protesters entered the Apple store and were removed by police and security."
 
