@@ -1,0 +1,18 @@
+id: j8r2
+submitted: 2025-11-04T14:00:00.000Z
+source: "ABC7 Chicago"
+
+date: "2025-11-04"
+time: "07:52"
+location: "Home Depot, 47th and Western, Back of the Yards, Chicago, IL"
+
+type: ice
+description: "ICE agents in military gear descended on Home Depot parking lot. A tamale vendor was among those arrested near the BP gas station. Agents arrived in at least six vehicles with approximately 20 agents. Detained individuals were taken to Broadview processing center."
+
+tags:
+  - home-depot
+  - back-of-the-yards
+  - southwest-side
+  - operation-midway-blitz
+officers: 20
+vehicles: 6

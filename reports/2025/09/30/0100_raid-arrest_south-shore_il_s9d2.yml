@@ -1,0 +1,17 @@
+id: s9d2
+submitted: 2025-10-01T12:00:00.000Z
+source: "TIME Magazine"
+
+date: "2025-09-30"
+time: "01:00"
+location: "75th Street and South Shore Drive, South Shore, Chicago, IL"
+
+type: raid_arrest
+description: "Armed federal agents rappelled from helicopters onto the roof of a five-story residential apartment building around 1 AM. Flash-bang grenades were used. Residents reported children taken from homes unclothed and separated from parents. DHS claimed two Tren de Aragua gang members were captured. 37 people detained."
+
+tags:
+  - south-shore
+  - helicopter
+  - apartment-raid
+  - operation-midway-blitz
+people: 37
