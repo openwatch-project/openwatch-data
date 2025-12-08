@@ -1,7 +1,10 @@
-timestamp: "2025-12-04T12:00:00-06:00"
+id: in0k14tw
+submitted: "2025-12-04T12:00:00.000Z"
 type: raid_arrest
 location: "Pershing Rd and Powell Ave, Chicago, IL"
 lat: 41.8234
 lng: -87.6298
 description: "ICE pinned a car and dragged an individual out at Pershing and Powell."
 source: social
+date: "2025-12-04"
+time: "12:00"

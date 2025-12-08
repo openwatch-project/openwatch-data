@@ -1,7 +1,10 @@
-timestamp: "2025-10-14T15:00:00-05:00"
+id: 08f1geva
+submitted: "2025-10-14T15:00:00.000Z"
 type: ice
 location: "East Side, Chicago, IL"
 lat: 41.7062
 lng: -87.5353
 description: "ICE spotted in East Side neighborhood. Schools keeping students indoors past dismissal until parents can pick up."
 source: social
+date: "2025-10-14"
+time: "15:00"

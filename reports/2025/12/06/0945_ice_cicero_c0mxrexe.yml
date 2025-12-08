@@ -1,4 +1,5 @@
-timestamp: "2025-12-06T09:45:00-06:00"
+id: c0mxrexe
+submitted: "2025-12-06T09:45:00.000Z"
 type: ice
 location: "Cicero and Ogden Ave, Chicago, IL"
 lat: 41.8596
@@ -6,3 +7,5 @@ lng: -87.7459
 description: "Federal agents observed driving through Cicero/Ogden, 35th/Central, and 23rd/Wilson areas between 9:15-10:00 AM. GMC Sierra pickup and black Ford Expedition spotted. No detentions reported."
 vehicles: 2
 source: social
+date: "2025-12-06"
+time: "09:45"

@@ -1,4 +1,5 @@
-timestamp: "2025-10-14T14:00:00-05:00"
+id: ufb5e06j
+submitted: "2025-10-14T14:00:00.000Z"
 type: ice
 location: "104th St and Avenue M, East Side, Chicago, IL"
 lat: 41.7028
@@ -7,3 +8,5 @@ description: "ICE at 104th and Avenue M, following a red Ford Escape."
 agents: 0
 vehicles: 1
 source: social
+date: "2025-10-14"
+time: "14:00"
