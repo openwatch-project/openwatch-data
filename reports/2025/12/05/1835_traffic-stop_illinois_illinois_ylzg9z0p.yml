@@ -6,7 +6,7 @@ time: "18:35"
 location: Ogden Avenue, Oswego Township, Kendall County, Illinois, 60503, United States
 lat: 41.7151339
 lng: -88.28757765
-type: traffic_stop
+category: traffic
 description: Four squad cars pulled over a pickup truck displaying a Mexican flag.
 tags:
   - detained

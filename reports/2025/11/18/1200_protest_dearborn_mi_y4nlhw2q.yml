@@ -7,7 +7,7 @@ time: "12:00"
 location: "Michigan Avenue near City Hall, Dearborn, MI"
 lat: 42.3223
 lng: -83.1763
-type: protest
+category: protest
 description: "Multiple protest groups clashed in Dearborn. Police maintained perimeter on sidewalks and along Michigan Avenue, intervening when tensions escalated. Three people were arrested for disorderly behavior from different groups. Counter-protesters also present."
 
 tags:

@@ -7,7 +7,7 @@ time: "07:00"
 location: "Little Village, Chicago, IL and Cicero, IL"
 lat: 41.8456
 lng: -87.7132
-type: ice
+category: ice
 description: "ICE raids in Little Village neighborhood and the western suburb of Cicero. Two American citizens were among those initially detained."
 
 tags:

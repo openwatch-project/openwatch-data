@@ -7,7 +7,7 @@ time: "12:30"
 location: "Evanston, IL"
 lat: 42.0451
 lng: -87.6877
-type: ice
+category: ice
 description: "ICE and CBP agents conducted operations in Evanston on Halloween. A vehicle collision occurred when a civilian vehicle rear-ended a federal vehicle. Federal agents deployed pepper spray during a confrontation with bystanders. Multiple arrests were made. Schools suspended outdoor activities as a precaution."
 
 tags:

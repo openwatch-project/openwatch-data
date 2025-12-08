@@ -6,7 +6,7 @@ time: "10:00"
 location: "Cortez and Ashland, Chicago, IL"
 lat: 41.9003
 lng: -87.6678
-type: ice
+category: ice
 description: "ICE agents spotted at Cortez and Ashland."
 tags:
   - west-town

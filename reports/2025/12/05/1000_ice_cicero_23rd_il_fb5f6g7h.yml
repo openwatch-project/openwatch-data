@@ -6,7 +6,7 @@ time: "10:00"
 location: "23rd Place and Central Ave, Cicero, IL"
 lat: 41.8500
 lng: -87.7642
-type: ice
+category: ice
 description: "ICE activity reported at 23rd Place and Central Ave in Cicero."
 tags:
   - cicero

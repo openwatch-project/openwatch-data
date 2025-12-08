@@ -6,7 +6,7 @@ time: "09:00"
 location: "Lansing Police Department, Lansing, IL"
 lat: 41.5647
 lng: -87.5389
-type: raid_arrest
+category: raid
 description: "ICE agents in alley at Lansing police station. One person arrested."
 tags:
   - lansing

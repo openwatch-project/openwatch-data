@@ -6,7 +6,7 @@ time: "11:00"
 location: "Kostner Ave near Kelvyn Park High School, Chicago, IL"
 lat: 41.9317
 lng: -87.7350
-type: ice
+category: ice
 description: "ICE vehicle driving down Kostner Ave near Kelvyn Park High School."
 tags:
   - hermosa

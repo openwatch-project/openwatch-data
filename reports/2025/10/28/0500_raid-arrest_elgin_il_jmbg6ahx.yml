@@ -7,7 +7,7 @@ time: "05:00"
 location: "900 block of Chippewa Drive, Elgin, IL"
 lat: 42.0354
 lng: -88.2826
-type: raid_arrest
+category: raid
 description: "DHS Secretary Kristi Noem joined ICE agents in early morning raid. Agents used military vehicles, helicopters, bright lights and smoke bombs. Door was breached. Seven people detained including two U.S. citizens who were later released. Three men were the primary targets."
 
 tags:

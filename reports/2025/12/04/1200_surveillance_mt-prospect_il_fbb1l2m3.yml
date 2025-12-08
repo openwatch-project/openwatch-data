@@ -6,7 +6,7 @@ time: "12:00"
 location: "Mt Prospect, IL"
 lat: 42.0664
 lng: -87.9373
-type: surveillance
+category: surveillance
 description: "Drones spotted over Mt Prospect."
 tags:
   - mt-prospect

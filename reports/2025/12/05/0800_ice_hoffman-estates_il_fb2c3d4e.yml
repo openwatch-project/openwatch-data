@@ -6,7 +6,7 @@ time: "08:00"
 location: "I-90 Roselle Exit, Hoffman Estates, IL"
 lat: 42.0334
 lng: -88.0784
-type: ice
+category: ice
 description: "4 out-of-state vehicles with tactical gear observed exiting I-90 at Roselle toward Hoffman Estates and Schaumburg."
 tags:
   - hoffman-estates

@@ -7,7 +7,7 @@ time: "08:00"
 location: "Chicago, IL"
 lat: 41.8781
 lng: -87.6298
-type: ice
+category: ice
 description: "ICE officials announced more than 400 arrests as part of Operation Midway Blitz in the Chicago area over the preceding two weeks. Acting head of ICE Enforcement and Removal Operations Marcos Charles confirmed the arrest numbers."
 
 tags:

@@ -7,7 +7,7 @@ time: "18:00"
 location: "The Loop, Downtown Chicago, IL"
 lat: 41.8819
 lng: -87.6278
-type: protest
+category: protest
 description: "Thousands marched downtown protesting ICE raids. At least 17 people were arrested. One person was injured when a car sped through demonstrators near Wabash and Monroe. Four people were charged with felonies including aggravated battery of a peace officer."
 
 tags:

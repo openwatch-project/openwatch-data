@@ -6,7 +6,7 @@ time: "09:00"
 location: "Cicero Ave Home Depot and Thorntons, Cicero, IL"
 lat: 41.8456
 lng: -87.7540
-type: ice
+category: ice
 description: "ICE vehicles spotted near Home Depot and Thorntons on Cicero Ave."
 tags:
   - cicero
