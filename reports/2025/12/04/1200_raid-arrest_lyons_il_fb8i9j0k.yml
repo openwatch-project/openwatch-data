@@ -6,7 +6,7 @@ time: "12:00"
 location: "Pershing and Powell, Lyons, IL"
 lat: 41.8131
 lng: -87.8184
-type: raid_arrest
+type: ice
 description: "ICE pinned a car and dragged an individual out at Pershing and Powell."
 tags:
   - lyons
