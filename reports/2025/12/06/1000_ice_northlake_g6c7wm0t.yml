@@ -1,5 +1,5 @@
 timestamp: "2025-12-06T10:00:00-06:00"
-category: ice
+type: ice
 location: "Home Depot, Northlake, IL"
 lat: 41.9170
 lng: -87.8953

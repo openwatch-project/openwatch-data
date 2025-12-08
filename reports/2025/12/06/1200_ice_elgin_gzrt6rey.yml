@@ -1,5 +1,5 @@
 timestamp: "2025-12-06T12:00:00-06:00"
-category: ice
+type: ice
 location: "Elgin, IL"
 lat: 42.0354
 lng: -88.2826

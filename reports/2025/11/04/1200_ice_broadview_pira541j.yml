@@ -1,5 +1,5 @@
 timestamp: "2025-11-04T12:00:00-06:00"
-category: ice
+type: ice
 location: "ICE Broadview Processing Center, Broadview, IL"
 lat: 41.8584
 lng: -87.8534
