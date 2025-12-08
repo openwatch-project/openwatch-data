@@ -1,10 +1,13 @@
 id: pira541j
 submitted: "2025-11-04T12:00:00.000Z"
-type: ice
-location: "ICE Broadview Processing Center, Broadview, IL"
-lat: 41.8584
-lng: -87.8534
-description: "Ongoing documentation of ICE Broadview processing center activity. Facility reportedly not allowing Illinois State Police, Cook County Sheriffs, or local Broadview Police inside."
 source: social
 date: "2025-11-04"
 time: "12:00"
+location: "ICE Broadview Processing Center, Broadview, IL"
+lat: 41.8584
+lng: -87.8534
+type: ice
+description: "ICE Broadview processing center activity documented. Facility reportedly not allowing local law enforcement inside."
+tags:
+  - processing-center
+  - broadview

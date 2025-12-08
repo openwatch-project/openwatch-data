@@ -1,10 +1,14 @@
 id: s0y8umow
 submitted: "2025-11-24T15:45:00.000Z"
-type: ice
-location: "Midlothian, IL (across from Bremen)"
-lat: 41.6253
-lng: -87.7248
-description: "ICE in Midlothian, across the street from Bremen. Individual carried into van."
 source: social
 date: "2025-11-24"
 time: "15:45"
+location: "Midlothian, IL"
+lat: 41.6253
+lng: -87.7248
+type: ice
+description: "ICE in Midlothian, across from Bremen. Individual carried into van."
+individuals: 1
+vehicles: 1
+tags:
+  - detained
