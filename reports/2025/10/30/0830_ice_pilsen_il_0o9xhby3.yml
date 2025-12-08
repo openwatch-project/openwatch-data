@@ -7,7 +7,7 @@ time: "08:30"
 location: "18th and Carpenter Street, Pilsen, Chicago, IL"
 lat: 41.8579
 lng: -87.6606
-category: ice
+type: ice
 description: "ICE agents with FBI support arrested two men in Pilsen. Agents entered a residence without presenting a warrant according to witnesses. One man was chased into a nearby restaurant and arrested exiting the back door. Video shows agents in FBI vests. Chicago police officer on scene left after learning it was immigration enforcement."
 
 tags:

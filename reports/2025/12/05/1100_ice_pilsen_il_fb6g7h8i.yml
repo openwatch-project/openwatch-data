@@ -6,7 +6,7 @@ time: "11:00"
 location: "21st Place, Pilsen, Chicago, IL"
 lat: 41.8543
 lng: -87.6563
-category: ice
+type: ice
 description: "Two ICE vehicles on 21st Place in Pilsen. Silver pickup truck and dark gray Jeep with tinted windows. Drove past twice."
 tags:
   - pilsen

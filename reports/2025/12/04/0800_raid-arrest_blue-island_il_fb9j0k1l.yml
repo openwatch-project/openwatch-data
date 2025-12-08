@@ -6,7 +6,7 @@ time: "08:00"
 location: "12738 Greenwood Ave, Blue Island, IL"
 lat: 41.6572
 lng: -87.6803
-category: raid
+type: raid_arrest
 description: "Person arrested by individuals in masks near Greenwood and Prairie."
 tags:
   - blue-island

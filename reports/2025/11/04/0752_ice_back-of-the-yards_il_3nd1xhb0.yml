@@ -7,7 +7,7 @@ time: "07:52"
 location: "Home Depot, 47th and Western, Back of the Yards, Chicago, IL"
 lat: 41.8084
 lng: -87.6847
-category: ice
+type: ice
 description: "ICE agents in military gear descended on Home Depot parking lot. A tamale vendor was among those arrested near the BP gas station. Agents arrived in at least six vehicles with approximately 20 agents. Detained individuals were taken to Broadview processing center."
 
 tags:

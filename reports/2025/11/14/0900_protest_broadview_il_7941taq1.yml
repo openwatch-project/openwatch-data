@@ -7,7 +7,7 @@ time: "09:00"
 location: "Broadview ICE Processing Center, Broadview, IL"
 lat: 41.8631
 lng: -87.8534
-category: protest
+type: protest
 description: "Protesters clashed with law enforcement outside the Broadview ICE facility. 21 people were arrested including faith leaders. Officers were injured during confrontations. U.S. Border Patrol took over security of the facility from ICE."
 
 tags:

@@ -7,7 +7,7 @@ time: "10:00"
 location: "Broadview ICE Processing Center, Broadview, IL"
 lat: 41.8631
 lng: -87.8534
-category: protest
+type: protest
 description: "Federal judge ordered release of hundreds of people arrested as part of immigration crackdown in Illinois. Protesters gathered outside Broadview facility as court ruling was announced."
 
 tags:

@@ -7,7 +7,7 @@ time: "18:00"
 location: "Downtown St. Charles, IL"
 lat: 41.9142
 lng: -88.3087
-category: ice
+type: ice
 description: "ICE agents conducted raids at multiple restaurants in downtown St. Charles. At Francesca's restaurant, six kitchen workers were taken into custody. Agents arrived in undercover vehicles and demanded to speak with kitchen staff without presenting warrants. Several restaurants closed early due to staff leaving after hearing about the raids."
 
 tags:

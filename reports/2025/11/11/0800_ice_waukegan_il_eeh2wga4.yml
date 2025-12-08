@@ -7,7 +7,7 @@ time: "08:00"
 location: "Waukegan, IL"
 lat: 42.3636
 lng: -87.8448
-category: ice
+type: ice
 description: "Federal agents conducted immigration arrests in Lake County. A 23-year-old U.S. citizen was arrested and later released. Waukegan mayor confronted ICE agents after a woman was detained outside a business. Community college campus also reported ICE presence."
 
 tags:
