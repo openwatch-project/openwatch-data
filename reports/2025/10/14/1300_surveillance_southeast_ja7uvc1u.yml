@@ -1,10 +1,15 @@
 id: ja7uvc1u
 submitted: "2025-10-14T13:00:00.000Z"
-type: surveillance
-location: "Southeast Side, Chicago, IL"
-lat: 41.7308
-lng: -87.5547
-description: "Four helicopters and one Blackhawk observed on the southeast side of Chicago."
 source: social
 date: "2025-10-14"
 time: "13:00"
+location: "Southeast Side, Chicago, IL"
+lat: 41.7308
+lng: -87.5547
+type: surveillance
+description: "Four helicopters and one Blackhawk observed on the southeast side."
+vehicles: 5
+tags:
+  - helicopter
+  - blackhawk
+  - aerial

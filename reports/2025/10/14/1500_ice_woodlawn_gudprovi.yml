@@ -1,10 +1,13 @@
 id: gudprovi
 submitted: "2025-10-14T15:00:00.000Z"
-type: ice
-location: "61st St and Blackstone Ave, Chicago, IL"
-lat: 41.7845
-lng: -87.5878
-description: "ICE presence along 61st and Blackstone, appearing to target schools during dismissal time."
 source: social
 date: "2025-10-14"
 time: "15:00"
+location: "61st St and Blackstone Ave, Chicago, IL"
+lat: 41.7845
+lng: -87.5878
+type: ice
+description: "ICE presence along 61st and Blackstone, appearing to target schools during dismissal."
+tags:
+  - school
+  - dismissal

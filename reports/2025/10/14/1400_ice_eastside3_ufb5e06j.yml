@@ -1,12 +1,13 @@
 id: ufb5e06j
 submitted: "2025-10-14T14:00:00.000Z"
-type: ice
-location: "104th St and Avenue M, East Side, Chicago, IL"
-lat: 41.7028
-lng: -87.5275
-description: "ICE at 104th and Avenue M, following a red Ford Escape."
-agents: 0
-vehicles: 1
 source: social
 date: "2025-10-14"
 time: "14:00"
+location: "104th St and Avenue M, East Side, Chicago, IL"
+lat: 41.7028
+lng: -87.5275
+type: ice
+description: "ICE at 104th and Avenue M, following a red Ford Escape."
+vehicle_description: "red Ford Escape (target)"
+tags:
+  - pursuit

@@ -1,11 +1,12 @@
 id: f0o5jjqi
 submitted: "2025-10-14T08:00:00.000Z"
-type: ice
-location: "Irving Park Rd and Marine Dr, Chicago, IL"
-lat: 41.9543
-lng: -87.6469
-description: "ICE at Irving Park and Marine by American Islamic College. One white Tahoe, one black Tahoe, and one white van observed."
-vehicles: 3
 source: social
 date: "2025-10-14"
 time: "08:00"
+location: "Irving Park Rd and Marine Dr, Chicago, IL"
+lat: 41.9543
+lng: -87.6469
+type: ice
+description: "ICE at Irving Park and Marine by American Islamic College. One white Tahoe, one black Tahoe, and one white van."
+vehicles: 3
+vehicle_description: "white Tahoe, black Tahoe, white van"
