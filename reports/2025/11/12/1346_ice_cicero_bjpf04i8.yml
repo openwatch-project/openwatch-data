@@ -1,0 +1,16 @@
+id: qcs5fn5t
+submitted: "2025-11-12T13:46:00.000Z"
+source: social
+date: "2025-11-12"
+time: "13:46"
+location: "Cicero Ave and Cermak Rd, Cicero, IL"
+lat: 41.8519
+lng: -87.7540
+type: ice
+description: "ICE at Cicero and Cermak near Chipotle. Silver Jeep Wagoneer with Georgia plates. One agent in uniform, one in plain clothes."
+vehicles: 1
+vehicle_description: "silver Jeep Wagoneer, Georgia plates"
+agents: 2
+tags:
+  - plain-clothes
+  - out-of-state-plates
