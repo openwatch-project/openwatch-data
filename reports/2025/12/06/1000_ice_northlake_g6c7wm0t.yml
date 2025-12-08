@@ -1,0 +1,7 @@
+timestamp: "2025-12-06T10:00:00-06:00"
+category: ice
+location: "Home Depot, Northlake, IL"
+lat: 41.9170
+lng: -87.8953
+description: "ICE presence reported at Northlake Home Depot."
+source: social
