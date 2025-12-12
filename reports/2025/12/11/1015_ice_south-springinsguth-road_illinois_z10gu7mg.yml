@@ -12,5 +12,7 @@ tags:
   - armed-men
   - church-intrusion
 officers: 30
+officer_label: armed personnel
 personnel_vehicles: 1
+personnel_vehicle_label: vehicle
 personnel_vehicle_description: red SUV

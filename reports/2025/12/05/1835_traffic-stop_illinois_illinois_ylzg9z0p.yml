@@ -12,6 +12,7 @@ tags:
   - detained
   - mexican-flag
 personnel_vehicles: 4
-personnel_vehicle_description: squad cars
+personnel_vehicle_label: squad cars
 civilian_vehicles: 1
+civilian_vehicle_label: stopped vehicle
 civilian_vehicle_description: pickup truck with Mexican flag
