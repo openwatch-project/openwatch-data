@@ -8,4 +8,5 @@ lat: 41.9103
 lng: -87.6867
 type: ice
 description: "Possible ICE at North and Western at 8:06 AM. Three vehicles passed by, drivers wearing neon yellow/green hoodies."
-vehicles: 3
+personnel_vehicles: 3
+personnel_vehicle_label: vehicles

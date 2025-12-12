@@ -8,7 +8,8 @@ lat: 41.7308
 lng: -87.5547
 type: surveillance
 description: "Four helicopters and one Blackhawk observed on the southeast side."
-vehicles: 5
+personnel_vehicles: 5
+personnel_vehicle_label: aircraft
 tags:
   - helicopter
   - blackhawk
