@@ -9,7 +9,9 @@ lng: -87.8656
 type: ice
 description: "ICE on Belmont and River Rd. Individual with gray pickup truck detained."
 civilians: 1
+people_label: detained
 civilian_vehicles: 1
+civilian_vehicle_label: detained person's vehicle
 civilian_vehicle_description: gray pickup truck
 tags:
   - detained
