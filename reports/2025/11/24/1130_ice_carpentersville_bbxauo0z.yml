@@ -9,6 +9,6 @@ lng: -88.2579
 type: ice
 description: "Three ICE vehicles heading down Route 25 towards Carpentersville."
 personnel_vehicles: 3
-personnel_vehicle_label: ICE vehicles
+personnel_vehicle_label: unmarked vehicles
 tags:
   - mobile
