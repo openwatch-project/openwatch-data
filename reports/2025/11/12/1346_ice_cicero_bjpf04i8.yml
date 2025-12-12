@@ -8,8 +8,8 @@ lat: 41.8519
 lng: -87.7540
 type: ice
 description: "ICE at Cicero and Cermak near Chipotle. Silver Jeep Wagoneer with Georgia plates. One agent in uniform, one in plain clothes."
-vehicles: 1
-vehicle_description: "silver Jeep Wagoneer, Georgia plates"
+personnel_vehicles: 1
+personnel_vehicle_description: silver Jeep Wagoneer, Georgia plates
 agents: 2
 tags:
   - plain-clothes

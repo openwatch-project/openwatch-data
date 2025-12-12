@@ -8,7 +8,8 @@ lat: 41.9317
 lng: -87.8656
 type: ice
 description: "ICE on Belmont and River Rd. Individual with gray pickup truck detained."
-individuals: 1
-vehicle_description: "gray pickup truck"
+civilians: 1
+civilian_vehicles: 1
+civilian_vehicle_description: gray pickup truck
 tags:
   - detained

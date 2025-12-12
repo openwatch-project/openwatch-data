@@ -8,5 +8,5 @@ lat: 42.0072
 lng: -87.9706
 type: ice
 description: "Possible ICE sighting at 9:30 AM. Large truck heading down Devon toward O'Hare airport."
-vehicles: 1
-vehicle_description: "large truck"
+personnel_vehicles: 1
+personnel_vehicle_description: large truck

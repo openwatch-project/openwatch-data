@@ -11,5 +11,7 @@ description: Four squad cars pulled over a pickup truck displaying a Mexican fla
 tags:
   - detained
   - mexican-flag
-vehicles: 5
-vehicle_description: 4 squad cars, 1 pickup truck with Mexican flag
+personnel_vehicles: 4
+personnel_vehicle_description: squad cars
+civilian_vehicles: 1
+civilian_vehicle_description: pickup truck with Mexican flag

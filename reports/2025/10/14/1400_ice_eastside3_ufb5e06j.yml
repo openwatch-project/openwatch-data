@@ -8,6 +8,7 @@ lat: 41.7028
 lng: -87.5275
 type: ice
 description: "ICE at 104th and Avenue M, following a red Ford Escape."
-vehicle_description: "red Ford Escape (target)"
+civilian_vehicles: 1
+civilian_vehicle_description: red Ford Escape
 tags:
   - pursuit
