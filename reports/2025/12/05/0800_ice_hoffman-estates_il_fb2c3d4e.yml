@@ -12,4 +12,5 @@ tags:
   - hoffman-estates
   - schaumburg
   - vehicles
-vehicles: 4
+personnel_vehicles: 4
+personnel_vehicle_label: out-of-state vehicles

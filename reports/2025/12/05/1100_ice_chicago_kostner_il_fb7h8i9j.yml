@@ -8,7 +8,8 @@ lat: 41.9317
 lng: -87.7350
 type: ice
 description: "ICE vehicle driving down Kostner Ave near Kelvyn Park High School."
-vehicles: 1
+personnel_vehicles: 1
+personnel_vehicle_label: ICE vehicle
 tags:
   - hermosa
   - chicago

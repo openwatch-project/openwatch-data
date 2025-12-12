@@ -11,5 +11,6 @@ description: "Two ICE vehicles on 21st Place in Pilsen. Silver pickup truck and 
 tags:
   - pilsen
   - vehicles
-vehicles: 2
-vehicle_description: "1 silver pickup truck, 1 dark gray Jeep with tinted windows"
+personnel_vehicles: 2
+personnel_vehicle_label: ICE vehicles
+personnel_vehicle_description: silver pickup truck, dark gray Jeep with tinted windows

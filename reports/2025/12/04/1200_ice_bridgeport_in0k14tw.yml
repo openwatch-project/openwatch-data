@@ -8,8 +8,10 @@ lat: 41.8234
 lng: -87.6298
 type: ice
 description: "ICE pinned a car and detained an individual at Pershing and Powell."
-individuals: 1
-vehicles: 1
+civilians: 1
+people_label: detained
+personnel_vehicles: 1
+personnel_vehicle_label: vehicle
 tags:
   - detained
   - vehicle-stop

@@ -12,4 +12,7 @@ tags:
   - avalon-park
   - chicago
 officers: 4
-vehicles: 2
+officer_label: ERO agents
+personnel_vehicles: 2
+personnel_vehicle_label: unmarked vehicles
+personnel_vehicle_description: silver Subaru Legacy, dark gray Dodge Caravan

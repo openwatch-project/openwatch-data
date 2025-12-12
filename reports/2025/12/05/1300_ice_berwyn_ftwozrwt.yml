@@ -8,7 +8,8 @@ lat: 41.8484
 lng: -87.7936
 type: ice
 description: "ICE driving through North Berwyn at Gunderson/Cermak, Cermak/Wesley, and East Roosevelt at 1:15 PM. White Jeep and black Ford Escape observed."
-vehicles: 2
-vehicle_description: "white Jeep, black Ford Escape"
+personnel_vehicles: 2
+personnel_vehicle_label: ICE vehicles
+personnel_vehicle_description: white Jeep, black Ford Escape
 tags:
   - mobile

@@ -8,8 +8,9 @@ lat: 41.8596
 lng: -87.7459
 type: ice
 description: "Federal agents observed driving through Cicero/Ogden, 35th/Central, and 23rd/Wilson areas between 9:15-10:00 AM. Three vehicles including GMC Sierra pickup and black Ford Expedition. No detentions reported."
-vehicles: 3
-vehicle_description: "1 GMC Sierra pickup, 1 black Ford Expedition, 1 unidentified"
+personnel_vehicles: 3
+personnel_vehicle_label: federal vehicles
+personnel_vehicle_description: GMC Sierra pickup, black Ford Expedition, unidentified
 tags:
   - mobile
   - no-arrest
