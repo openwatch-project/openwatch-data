@@ -16,4 +16,6 @@ tags:
   - southwest-side
   - operation-midway-blitz
 officers: 20
-vehicles: 6
+officer_label: ICE agents
+personnel_vehicles: 6
+personnel_vehicle_label: vehicles

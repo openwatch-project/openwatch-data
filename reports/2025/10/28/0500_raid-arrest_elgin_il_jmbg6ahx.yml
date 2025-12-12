@@ -16,5 +16,8 @@ tags:
   - dhs-secretary
   - operation-midway-blitz
 officers: 20
-vehicles: 4
+officer_label: ICE agents
+personnel_vehicles: 4
+personnel_vehicle_label: military vehicles
 civilians: 7
+people_label: detained
