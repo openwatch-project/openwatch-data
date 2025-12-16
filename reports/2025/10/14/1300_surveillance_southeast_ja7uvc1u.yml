@@ -1,13 +1,14 @@
 id: ja7uvc1u
 submitted: "2025-10-14T13:00:00.000Z"
 source: social
-date: "2025-10-14"
+date: 2025-10-14
 time: "13:00"
-location: "Southeast Side, Chicago, Illinois"
+timezone: America/Chicago
+location: Southeast Side, Chicago, Illinois
 lat: 41.7308
 lng: -87.5547
 type: surveillance
-description: "Four helicopters and one Blackhawk observed on the southeast side."
+description: Four helicopters and one Blackhawk observed on the southeast side.
 personnel_vehicles: 5
 personnel_vehicle_label: aircraft
 tags:

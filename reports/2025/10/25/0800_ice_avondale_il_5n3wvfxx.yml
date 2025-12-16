@@ -1,15 +1,14 @@
 id: 5n3wvfxx
-submitted: 2025-10-25T16:00:00.000Z
-source: "Reuters"
-
-date: "2025-10-25"
+submitted: "2025-10-25T16:00:00.000Z"
+source: Reuters
+date: 2025-10-25
 time: "08:00"
-location: "Avondale neighborhood, Chicago, Illinois"
+timezone: America/Chicago
+location: Avondale neighborhood, Chicago, Illinois
 lat: 41.9392
 lng: -87.7108
 type: ice
-description: "Federal agents detained a man in a parking lot following a confrontation during immigration raids in the Avondale neighborhood."
-
+description: Federal agents detained a man in a parking lot following a confrontation during immigration raids in the Avondale neighborhood.
 tags:
   - avondale
   - northwest-side

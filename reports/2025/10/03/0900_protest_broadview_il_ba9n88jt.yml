@@ -1,15 +1,14 @@
 id: ba9n88jt
-submitted: 2025-10-03T18:00:00.000Z
-source: "Associated Press"
-
-date: "2025-10-03"
+submitted: "2025-10-03T18:00:00.000Z"
+source: Associated Press
+date: 2025-10-03
 time: "09:00"
-location: "Broadview ICE Processing Center, Broadview, Illinois"
+timezone: America/Chicago
+location: Broadview ICE Processing Center, Broadview, Illinois
 lat: 41.8631
 lng: -87.8534
 type: protest
-description: "13 protesters arrested near Broadview ICE facility during DHS Secretary Kristi Noem's visit. Law enforcement detained protesters as Noem toured the facility."
-
+description: 13 protesters arrested near Broadview ICE facility during DHS Secretary Kristi Noem's visit. Law enforcement detained protesters as Noem toured the facility.
 tags:
   - broadview
   - ice-facility

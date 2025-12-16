@@ -3,11 +3,12 @@ submitted: "2025-12-08T20:53:52.960Z"
 source: user
 date: 2025-12-06
 time: "09:15"
+timezone: America/Chicago
 location: West North Avenue, Northlake, Illinois
 lat: 41.90694485
 lng: -87.916641
 type: ice
-description: "Two individuals were detained by ICE agents at a Home Depot parking lot."
+description: Two individuals were detained by ICE agents at a Home Depot parking lot.
 tags:
   - witnesses-present
   - detained

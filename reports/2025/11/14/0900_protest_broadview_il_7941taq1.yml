@@ -1,15 +1,14 @@
 id: 7941taq1
-submitted: 2025-11-14T16:00:00.000Z
-source: "FOX 32 Chicago"
-
-date: "2025-11-14"
+submitted: "2025-11-14T16:00:00.000Z"
+source: FOX 32 Chicago
+date: 2025-11-14
 time: "09:00"
-location: "Broadview ICE Processing Center, Broadview, Illinois"
+timezone: America/Chicago
+location: Broadview ICE Processing Center, Broadview, Illinois
 lat: 41.8631
 lng: -87.8534
 type: protest
-description: "Protesters clashed with law enforcement outside the Broadview ICE facility. 21 people were arrested including faith leaders. Officers were injured during confrontations. U.S. Border Patrol took over security of the facility from ICE."
-
+description: Protesters clashed with law enforcement outside the Broadview ICE facility. 21 people were arrested including faith leaders. Officers were injured during confrontations. U.S. Border Patrol took over security of the facility from ICE.
 tags:
   - broadview
   - ice-facility

@@ -1,13 +1,14 @@
 id: s0y8umow
 submitted: "2025-11-24T15:45:00.000Z"
 source: social
-date: "2025-11-24"
+date: 2025-11-24
 time: "15:45"
-location: "Midlothian, Illinois"
+timezone: America/Chicago
+location: Midlothian, Illinois
 lat: 41.6253
 lng: -87.7248
 type: ice
-description: "ICE in Midlothian, across from Bremen. Individual carried into van."
+description: ICE in Midlothian, across from Bremen. Individual carried into van.
 civilians: 1
 people_label: detained
 personnel_vehicles: 1

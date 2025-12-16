@@ -1,15 +1,14 @@
 id: eeh2wga4
-submitted: 2025-11-11T14:00:00.000Z
-source: "WGN TV"
-
-date: "2025-11-11"
+submitted: "2025-11-11T14:00:00.000Z"
+source: WGN TV
+date: 2025-11-11
 time: "08:00"
-location: "Waukegan, Illinois"
+timezone: America/Chicago
+location: Waukegan, Illinois
 lat: 42.3636
 lng: -87.8448
 type: ice
-description: "Federal agents conducted immigration arrests in Lake County. A 23-year-old U.S. citizen was arrested and later released. Waukegan mayor confronted ICE agents after a woman was detained outside a business. Community college campus also reported ICE presence."
-
+description: Federal agents conducted immigration arrests in Lake County. A 23-year-old U.S. citizen was arrested and later released. Waukegan mayor confronted ICE agents after a woman was detained outside a business. Community college campus also reported ICE presence.
 tags:
   - waukegan
   - lake-county

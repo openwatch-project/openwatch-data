@@ -1,15 +1,14 @@
 id: ygdzye5w
-submitted: 2025-10-26T16:00:00.000Z
-source: "The Marshall Project"
-
-date: "2025-10-26"
+submitted: "2025-10-26T16:00:00.000Z"
+source: The Marshall Project
+date: 2025-10-26
 time: "07:00"
-location: "Little Village, Chicago, Illinois"
+timezone: America/Chicago
+location: Little Village, Chicago, Illinois
 lat: 41.8456
 lng: -87.7132
 type: ice
-description: "ICE raids in Little Village neighborhood and the western suburb of Cicero. Two American citizens were among those initially detained."
-
+description: ICE raids in Little Village neighborhood and the western suburb of Cicero. Two American citizens were among those initially detained.
 tags:
   - little-village
   - cicero

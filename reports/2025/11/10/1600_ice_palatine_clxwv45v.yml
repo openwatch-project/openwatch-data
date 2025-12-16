@@ -1,10 +1,11 @@
 id: gy6nk56d
 submitted: "2025-11-10T16:00:00.000Z"
 source: social
-date: "2025-11-10"
+date: 2025-11-10
 time: "16:00"
-location: "Schiller Street, Palatine, Illinois"
+timezone: America/Chicago
+location: Schiller Street, Palatine, Illinois
 lat: 42.1103
-lng: -88.0340
+lng: -88.034
 type: ice
-description: "ICE on Schiller Street in Palatine."
+description: ICE on Schiller Street in Palatine.

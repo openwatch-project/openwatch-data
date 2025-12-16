@@ -1,15 +1,14 @@
 id: 0o9xhby3
-submitted: 2025-10-30T14:00:00.000Z
-source: "ABC7 Chicago"
-
-date: "2025-10-30"
+submitted: "2025-10-30T14:00:00.000Z"
+source: ABC7 Chicago
+date: 2025-10-30
 time: "08:30"
-location: "18th and Carpenter Street, Pilsen, Chicago, Illinois"
+timezone: America/Chicago
+location: 18th and Carpenter Street, Pilsen, Chicago, Illinois
 lat: 41.8579
 lng: -87.6606
 type: ice
-description: "ICE agents with FBI support arrested two men in Pilsen. Agents entered a residence without presenting a warrant according to witnesses. One man was chased into a nearby restaurant and arrested exiting the back door. Video shows agents in FBI vests. Chicago police officer on scene left after learning it was immigration enforcement."
-
+description: ICE agents with FBI support arrested two men in Pilsen. Agents entered a residence without presenting a warrant according to witnesses. One man was chased into a nearby restaurant and arrested exiting the back door. Video shows agents in FBI vests. Chicago police officer on scene left after learning it was immigration enforcement.
 tags:
   - pilsen
   - southwest-side

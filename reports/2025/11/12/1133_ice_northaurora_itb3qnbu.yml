@@ -1,13 +1,14 @@
 id: cdse4fwd
 submitted: "2025-11-12T11:33:00.000Z"
 source: social
-date: "2025-11-12"
+date: 2025-11-12
 time: "11:33"
-location: "North Aurora, Illinois"
+timezone: America/Chicago
+location: North Aurora, Illinois
 lat: 41.8072
 lng: -88.3234
 type: ice
-description: "ICE detained a woman without a warrant in North Aurora."
+description: ICE detained a woman without a warrant in North Aurora.
 individuals: 1
 tags:
   - detained

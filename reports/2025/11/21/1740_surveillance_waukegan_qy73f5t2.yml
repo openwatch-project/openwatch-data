@@ -1,13 +1,14 @@
 id: qy73f5t2
 submitted: "2025-11-21T17:40:00.000Z"
 source: social
-date: "2025-11-21"
+date: 2025-11-21
 time: "17:40"
-location: "Waukegan, Illinois"
+timezone: America/Chicago
+location: Waukegan, Illinois
 lat: 42.3636
 lng: -87.8448
 type: surveillance
-description: "Drones observed flying above Waukegan."
+description: Drones observed flying above Waukegan.
 tags:
   - drones
   - aerial

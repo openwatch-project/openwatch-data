@@ -1,13 +1,14 @@
 id: jf5hxppi
 submitted: "2025-12-06T08:00:00.000Z"
 source: social
-date: "2025-12-06"
+date: 2025-12-06
 time: "08:00"
-location: "Melrose Park, Illinois"
+timezone: America/Chicago
+location: Melrose Park, Illinois
 lat: 41.9006
 lng: -87.8567
 type: ice
-description: "Man assaulted by ICE agents while biking home from grocery store."
+description: Man assaulted by ICE agents while biking home from grocery store.
 individuals: 1
 tags:
   - assault

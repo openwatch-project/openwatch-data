@@ -1,13 +1,14 @@
 id: vugwracb
 submitted: "2025-11-08T16:00:00.000Z"
 source: social
-date: "2025-11-08"
+date: 2025-11-08
 time: "16:00"
-location: "La Villita Arch, 26th St, Chicago, Illinois"
+timezone: America/Chicago
+location: La Villita Arch, 26th St, Chicago, Illinois
 lat: 41.8445
-lng: -87.7060
+lng: -87.706
 type: ice
-description: "Man arrested near the Little Village arch."
+description: Man arrested near the Little Village arch.
 individuals: 1
 tags:
   - detained

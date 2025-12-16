@@ -1,15 +1,14 @@
 id: gi5cw427
-submitted: 2025-11-12T18:00:00.000Z
-source: "CNN"
-
-date: "2025-11-12"
+submitted: "2025-11-12T18:00:00.000Z"
+source: CNN
+date: 2025-11-12
 time: "10:00"
-location: "Broadview ICE Processing Center, Broadview, Illinois"
+timezone: America/Chicago
+location: Broadview ICE Processing Center, Broadview, Illinois
 lat: 41.8631
 lng: -87.8534
 type: protest
-description: "Federal judge ordered release of hundreds of people arrested as part of immigration crackdown in Illinois. Protesters gathered outside Broadview facility as court ruling was announced."
-
+description: Federal judge ordered release of hundreds of people arrested as part of immigration crackdown in Illinois. Protesters gathered outside Broadview facility as court ruling was announced.
 tags:
   - broadview
   - ice-facility

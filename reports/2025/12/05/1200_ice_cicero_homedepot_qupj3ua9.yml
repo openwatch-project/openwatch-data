@@ -1,12 +1,13 @@
 id: qypcoogh
 submitted: "2025-12-05T12:00:00.000Z"
 source: social
-date: "2025-12-05"
+date: 2025-12-05
 time: "12:00"
-location: "Home Depot, Cicero, Illinois"
-lat: 41.8450
-lng: -87.7540
+timezone: America/Chicago
+location: Home Depot, Cicero, Illinois
+lat: 41.845
+lng: -87.754
 type: ice
-description: "ICE at Home Depot in Cicero."
+description: ICE at Home Depot in Cicero.
 tags:
   - home-depot

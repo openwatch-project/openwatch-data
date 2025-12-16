@@ -1,15 +1,14 @@
 id: c5jxji4y
-submitted: 2025-10-30T12:00:00.000Z
-source: "WBEZ Chicago"
-
-date: "2025-10-23"
+submitted: "2025-10-30T12:00:00.000Z"
+source: WBEZ Chicago
+date: 2025-10-23
 time: "06:00"
-location: "Gary, Indiana"
+timezone: America/Chicago
+location: Gary, Indiana
 lat: 41.5934
 lng: -87.3464
 type: ice
-description: "ICE and U.S. Marshals raided a family home, detaining five family members including a 14-year-old. Agents used a battering ram to force entry around 6 AM. Two U.S. citizen siblings were released; parents remain in custody at Broadview and Hammond facilities."
-
+description: ICE and U.S. Marshals raided a family home, detaining five family members including a 14-year-old. Agents used a battering ram to force entry around 6 AM. Two U.S. citizen siblings were released; parents remain in custody at Broadview and Hammond facilities.
 tags:
   - ice
   - home-raid

@@ -1,12 +1,13 @@
 id: cmtc6vny
 submitted: "2025-11-11T10:32:00.000Z"
 source: social
-date: "2025-11-11"
+date: 2025-11-11
 time: "10:32"
-location: "Sam's Club, Cicero, Illinois"
-lat: 41.8450
-lng: -87.7580
+timezone: America/Chicago
+location: Sam's Club, Cicero, Illinois
+lat: 41.845
+lng: -87.758
 type: ice
-description: "ICE at Sam's Club in Cicero as of 10 AM."
+description: ICE at Sam's Club in Cicero as of 10 AM.
 tags:
   - retail

@@ -1,15 +1,14 @@
 id: a4gz54k7
-submitted: 2025-10-27T16:00:00.000Z
-source: "Reuters"
-
-date: "2025-10-27"
+submitted: "2025-10-27T16:00:00.000Z"
+source: Reuters
+date: 2025-10-27
 time: "09:00"
-location: "East Side neighborhood, Chicago, Illinois"
+timezone: America/Chicago
+location: East Side neighborhood, Chicago, Illinois
 lat: 41.7067
 lng: -87.5347
 type: ice
-description: "Federal agents conducted immigration raid in the East Side neighborhood. Multiple detentions reported as part of ongoing Operation Midway Blitz."
-
+description: Federal agents conducted immigration raid in the East Side neighborhood. Multiple detentions reported as part of ongoing Operation Midway Blitz.
 tags:
   - east-side
   - south-side

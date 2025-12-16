@@ -1,13 +1,14 @@
 id: 7f8q60pa
 submitted: "2025-11-22T06:40:00.000Z"
 source: social
-date: "2025-11-22"
+date: 2025-11-22
 time: "06:40"
-location: "Belmont Ave and River Rd, Franklin Park, Illinois"
+timezone: America/Chicago
+location: Belmont Ave and River Rd, Franklin Park, Illinois
 lat: 41.9317
 lng: -87.8656
 type: ice
-description: "ICE on Belmont and River Rd. Individual with gray pickup truck detained."
+description: ICE on Belmont and River Rd. Individual with gray pickup truck detained.
 civilians: 1
 people_label: detained
 civilian_vehicles: 1

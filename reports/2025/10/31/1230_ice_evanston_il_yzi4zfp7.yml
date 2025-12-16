@@ -1,15 +1,14 @@
 id: yzi4zfp7
-submitted: 2025-11-01T12:00:00.000Z
-source: "FOX 32 Chicago"
-
-date: "2025-10-31"
+submitted: "2025-11-01T12:00:00.000Z"
+source: FOX 32 Chicago
+date: 2025-10-31
 time: "12:30"
-location: "Evanston, Illinois"
+timezone: America/Chicago
+location: Evanston, Illinois
 lat: 42.0451
 lng: -87.6877
 type: ice
-description: "ICE and CBP agents conducted operations in Evanston on Halloween. A vehicle collision occurred when a civilian vehicle rear-ended a federal vehicle. Federal agents deployed pepper spray during a confrontation with bystanders. Multiple arrests were made. Schools suspended outdoor activities as a precaution."
-
+description: ICE and CBP agents conducted operations in Evanston on Halloween. A vehicle collision occurred when a civilian vehicle rear-ended a federal vehicle. Federal agents deployed pepper spray during a confrontation with bystanders. Multiple arrests were made. Schools suspended outdoor activities as a precaution.
 tags:
   - north-suburbs
   - evanston

@@ -1,13 +1,14 @@
 id: 6yxdyxqa
 submitted: "2025-10-14T12:00:00.000Z"
 source: social
-date: "2025-10-14"
+date: 2025-10-14
 time: "12:00"
-location: "Coast Guard Station, 95th St Lakefront, Chicago, Illinois"
+timezone: America/Chicago
+location: Coast Guard Station, 95th St Lakefront, Chicago, Illinois
 lat: 41.7214
 lng: -87.5686
 type: ice
-description: "Coast Guard station on 95th lakefront being used by ICE to organize. Space may be used to temporarily house detained individuals from East Side neighborhood."
+description: Coast Guard station on 95th lakefront being used by ICE to organize. Space may be used to temporarily house detained individuals from East Side neighborhood.
 tags:
   - staging-area
   - coast-guard

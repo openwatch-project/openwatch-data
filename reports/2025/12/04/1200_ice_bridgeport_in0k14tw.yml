@@ -1,13 +1,14 @@
 id: in0k14tw
 submitted: "2025-12-04T12:00:00.000Z"
 source: social
-date: "2025-12-04"
+date: 2025-12-04
 time: "12:00"
-location: "Pershing Rd and Powell Ave, Chicago, Illinois"
+timezone: America/Chicago
+location: Pershing Rd and Powell Ave, Chicago, Illinois
 lat: 41.8234
 lng: -87.6298
 type: ice
-description: "ICE pinned a car and detained an individual at Pershing and Powell."
+description: ICE pinned a car and detained an individual at Pershing and Powell.
 civilians: 1
 people_label: detained
 personnel_vehicles: 1

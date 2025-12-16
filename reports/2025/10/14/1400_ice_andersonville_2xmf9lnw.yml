@@ -1,10 +1,11 @@
 id: 2xmf9lnw
 submitted: "2025-10-14T14:00:00.000Z"
 source: social
-date: "2025-10-14"
+date: 2025-10-14
 time: "14:00"
-location: "Clark Street, Andersonville, Chicago, Illinois"
+timezone: America/Chicago
+location: Clark Street, Andersonville, Chicago, Illinois
 lat: 41.9798
 lng: -87.6689
 type: ice
-description: "Possible ICE spotting in Andersonville on Clark Street."
+description: Possible ICE spotting in Andersonville on Clark Street.

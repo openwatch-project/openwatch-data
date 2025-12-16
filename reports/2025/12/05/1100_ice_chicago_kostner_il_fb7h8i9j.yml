@@ -1,13 +1,14 @@
 id: fb7h8i9j
-submitted: 2025-12-05T17:00:00.000Z
-source: "social"
-date: "2025-12-05"
+submitted: "2025-12-05T17:00:00.000Z"
+source: social
+date: 2025-12-05
 time: "11:00"
-location: "Kostner Ave near Kelvyn Park High School, Chicago, Illinois"
+timezone: America/Chicago
+location: Kostner Ave near Kelvyn Park High School, Chicago, Illinois
 lat: 41.9317
-lng: -87.7350
+lng: -87.735
 type: ice
-description: "ICE vehicle driving down Kostner Ave near Kelvyn Park High School."
+description: ICE vehicle driving down Kostner Ave near Kelvyn Park High School.
 personnel_vehicles: 1
 personnel_vehicle_label: ICE vehicle
 tags:

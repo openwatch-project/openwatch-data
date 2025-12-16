@@ -1,15 +1,14 @@
 id: jmbg6ahx
-submitted: 2025-10-28T14:00:00.000Z
-source: "CBS Chicago"
-
-date: "2025-10-28"
+submitted: "2025-10-28T14:00:00.000Z"
+source: CBS Chicago
+date: 2025-10-28
 time: "05:00"
-location: "900 block of Chippewa Drive, Elgin, Illinois"
+timezone: America/Chicago
+location: 900 block of Chippewa Drive, Elgin, Illinois
 lat: 42.0354
 lng: -88.2826
 type: ice
-description: "DHS Secretary Kristi Noem joined ICE agents in early morning raid. Agents used military vehicles, helicopters, bright lights and smoke bombs. Door was breached. Seven people detained including two U.S. citizens who were later released. Three men were the primary targets."
-
+description: DHS Secretary Kristi Noem joined ICE agents in early morning raid. Agents used military vehicles, helicopters, bright lights and smoke bombs. Door was breached. Seven people detained including two U.S. citizens who were later released. Three men were the primary targets.
 tags:
   - elgin
   - fox-valley
