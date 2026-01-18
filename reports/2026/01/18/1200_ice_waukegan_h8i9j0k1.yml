@@ -1,0 +1,14 @@
+id: "h8i9j0k1"
+submitted: "2026-01-18T20:30:00.000Z"
+source: "social"
+date: "2026-01-18"
+time: "12:00"
+timezone: "America/Chicago"
+location: "Waukegan"
+lat: 42.360
+lng: -87.832
+type: "ice"
+description: "ICE agents reported at apartment complex in Waukegan."
+tags:
+  - waukegan
+  - apartment-complex

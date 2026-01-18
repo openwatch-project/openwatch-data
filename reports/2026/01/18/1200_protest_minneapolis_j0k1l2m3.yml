@@ -1,0 +1,14 @@
+id: "j0k1l2m3"
+submitted: "2026-01-18T20:30:00.000Z"
+source: "social"
+date: "2026-01-18"
+time: "12:00"
+timezone: "America/Chicago"
+location: "Minneapolis"
+lat: 44.977
+lng: -93.265
+type: "protest"
+description: "Large protest regarding immigration policy held in Minneapolis."
+tags:
+  - minneapolis
+  - protest

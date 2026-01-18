@@ -1,0 +1,13 @@
+id: "i9j0k1l2"
+submitted: "2026-01-18T20:30:00.000Z"
+source: "social"
+date: "2026-01-13"
+time: "00:00"
+timezone: "America/Chicago"
+location: "Cicero"
+lat: 41.846
+lng: -87.754
+type: "surveillance"
+description: "Law enforcement presence confirmed in Cicero area."
+tags:
+  - cicero
