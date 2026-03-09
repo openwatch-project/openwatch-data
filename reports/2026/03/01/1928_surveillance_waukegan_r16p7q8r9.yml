@@ -1,0 +1,14 @@
+id: "r16p7q8r9"
+submitted: "2026-03-09T14:50:00.000Z"
+source: "social"
+date: "2026-03-01"
+time: "19:28"
+timezone: "America/Chicago"
+location: "Waukegan, Illinois"
+lat: 42.3636
+lng: -87.8448
+type: "surveillance"
+description: "A drone was observed flying at very low altitude over Waukegan at 7:28 p.m."
+tags:
+  - waukegan
+  - drone
