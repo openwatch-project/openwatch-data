@@ -4,12 +4,13 @@ source: "social"
 date: "2026-01-18"
 time: "09:00"
 timezone: "America/Chicago"
-location: "Northbrook"
-lat: 42.129
-lng: -87.827
+location: "Northbrook, Illinois"
+lat: 42.1253
+lng: -87.8270
 type: "ice"
-description: "ICE agents detained individual at bus stop in Northbrook residential area. Children witnessed the detention."
+description: "ICE agents detained one person in a residential neighborhood in Northbrook in the morning."
+civilians: 1
+people_label: detained
 tags:
   - northbrook
   - detention
-  - residential

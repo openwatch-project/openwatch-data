@@ -9,6 +9,11 @@ lat: 41.8892
 lng: -87.7601
 type: "ice"
 description: "Two ICE agents were observed exiting a white Ford SUV in the parking lot of a 7-Eleven at Higgins Avenue and Austin Avenue at 2 p.m."
+officers: 2
+officer_label: ICE agents
+personnel_vehicles: 1
+personnel_vehicle_label: unmarked vehicle
+personnel_vehicle_description: white Ford SUV
 tags:
   - chicago
   - higgins

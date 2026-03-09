@@ -9,6 +9,8 @@ lat: 41.9758
 lng: -87.6877
 type: "ice"
 description: "One person was detained by agents traveling northbound at Western Avenue and Foster Avenue in Chicago."
+civilians: 1
+people_label: detained
 tags:
   - chicago
   - detention

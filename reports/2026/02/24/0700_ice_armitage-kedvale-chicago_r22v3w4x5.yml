@@ -9,6 +9,11 @@ lat: 41.9180
 lng: -87.7369
 type: "ice"
 description: "ICE agents detained one person at Armitage Avenue and Kedvale Avenue in Chicago at 7 a.m. A red Toyota Prius was involved in the incident."
+civilians: 1
+people_label: detained
+civilian_vehicles: 1
+civilian_vehicle_label: car
+civilian_vehicle_description: red Toyota Prius
 tags:
   - chicago
   - detention

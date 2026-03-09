@@ -9,6 +9,9 @@ lat: 41.8949
 lng: -87.7649
 type: "ice"
 description: "A black Ford Explorer and a black Chevrolet Tahoe were observed at Central Avenue and Higgins Avenue heading toward Austin Avenue. An occupant was wearing a camouflage hat and the windows were heavily tinted."
+personnel_vehicles: 2
+personnel_vehicle_label: unmarked vehicles
+personnel_vehicle_description: black Ford Explorer, black Chevrolet Tahoe
 tags:
   - chicago
   - central-avenue

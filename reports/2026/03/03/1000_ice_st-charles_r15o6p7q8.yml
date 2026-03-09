@@ -9,6 +9,8 @@ lat: 41.9142
 lng: -88.3085
 type: "ice"
 description: "ICE activity was confirmed in St. Charles. One person was detained."
+civilians: 1
+people_label: detained
 tags:
   - st-charles
   - detention

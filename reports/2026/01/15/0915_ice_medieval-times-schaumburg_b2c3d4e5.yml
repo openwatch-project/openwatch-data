@@ -5,10 +5,12 @@ date: "2026-01-15"
 time: "09:15"
 timezone: "America/Chicago"
 location: "Medieval Times, Schaumburg"
-lat: 42.065
-lng: -88.076
+lat: 42.0385
+lng: -88.0334
 type: "ice"
-description: "Three large black ICE trucks observed at Medieval Times in Schaumburg. Officers monitored surrounding area."
+description: "ICE trucks were spotted in the parking lot of Medieval Times in Schaumburg in the morning."
+personnel_vehicles: 2
+personnel_vehicle_label: unmarked trucks
 tags:
   - schaumburg
   - medieval-times

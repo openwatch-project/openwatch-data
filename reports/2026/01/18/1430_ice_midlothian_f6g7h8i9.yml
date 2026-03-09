@@ -4,11 +4,13 @@ source: "social"
 date: "2026-01-18"
 time: "14:30"
 timezone: "America/Chicago"
-location: "Midlothian"
-lat: 41.625
-lng: -87.718
+location: "Midlothian, Illinois"
+lat: 41.6253
+lng: -87.7175
 type: "ice"
-description: "ICE agents detained individual near Bremen High School in Midlothian."
+description: "ICE agents detained one person in Midlothian."
+civilians: 1
+people_label: detained
 tags:
   - midlothian
   - detention

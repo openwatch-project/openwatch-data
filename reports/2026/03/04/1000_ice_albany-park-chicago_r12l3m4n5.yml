@@ -9,6 +9,13 @@ lat: 41.9469
 lng: -87.6637
 type: "ice"
 description: "ICE agents detained four workers in the parking lot of a Home Depot at Kimball Avenue and Addison Street in Albany Park at approximately 10 a.m. Six to seven agents wearing vests marked \"Police\" were present. Three vehicles were observed: a dark gray Dodge Charger, a blue Ford Explorer, and a silver Suburban. Agents were seen recording video at the scene."
+officers: 6
+officer_label: ICE agents
+personnel_vehicles: 3
+personnel_vehicle_label: unmarked vehicles
+personnel_vehicle_description: dark gray Dodge Charger, blue Ford Explorer, silver Suburban
+civilians: 4
+people_label: detained
 tags:
   - albany-park
   - chicago

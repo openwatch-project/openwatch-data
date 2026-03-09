@@ -9,6 +9,8 @@ lat: 41.9180
 lng: -87.6790
 type: "ice"
 description: "ICE agents detained one person in front of a daycare at Armitage Avenue and Pulaski Road in Chicago's Hermosa Park neighborhood at 7 a.m."
+civilians: 1
+people_label: detained
 tags:
   - chicago
   - hermosa-park

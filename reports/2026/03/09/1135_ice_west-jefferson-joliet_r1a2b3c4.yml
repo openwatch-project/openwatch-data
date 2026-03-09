@@ -9,6 +9,13 @@ lat: 41.5224
 lng: -88.1379
 type: "ice"
 description: "Federal agents detained one person from the parking lot of a cell phone store on West Jefferson Street in west Joliet between 11:35 a.m. and 12:18 p.m. Four agents in brown uniforms with yellow \"Police\" lettering were present. Two vehicles were observed: a black Dodge Durango and a gray Ford sedan. Incident was captured on witness video."
+officers: 4
+officer_label: federal agents
+personnel_vehicles: 2
+personnel_vehicle_label: unmarked vehicles
+personnel_vehicle_description: black Dodge Durango, gray Ford sedan
+civilians: 1
+people_label: detained
 tags:
   - joliet
   - detention

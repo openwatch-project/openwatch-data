@@ -9,6 +9,8 @@ lat: 41.7475
 lng: -88.2707
 type: "ice"
 description: "ICE agents detained one person at Fifth Avenue and Hill Avenue in Aurora."
+civilians: 1
+people_label: detained
 tags:
   - aurora
   - detention

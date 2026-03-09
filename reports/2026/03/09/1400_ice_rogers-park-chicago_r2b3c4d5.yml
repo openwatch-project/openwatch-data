@@ -9,6 +9,11 @@ lat: 41.9957
 lng: -87.6771
 type: "ice"
 description: "ICE agents in a red Dodge were observed at Arthur Avenue and Damen Avenue in Rogers Park. Two agents wearing black vests were present in the area."
+officers: 2
+officer_label: ICE agents
+personnel_vehicles: 1
+personnel_vehicle_label: unmarked vehicle
+personnel_vehicle_description: red Dodge
 tags:
   - rogers-park
   - chicago

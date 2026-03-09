@@ -9,6 +9,9 @@ lat: 42.0321
 lng: -87.9208
 type: "ice"
 description: "Four ICE vehicles were observed in the parking lot of Moretti's restaurant on Algonquin Road in Mount Prospect at 8:50 a.m. Vehicles included a white Dodge Charger, black Ford Bronco, blue Ford Escape, and silver Subaru."
+personnel_vehicles: 4
+personnel_vehicle_label: unmarked vehicles
+personnel_vehicle_description: white Dodge Charger, black Ford Bronco, blue Ford Escape, silver Subaru
 tags:
   - mount-prospect
   - morettis

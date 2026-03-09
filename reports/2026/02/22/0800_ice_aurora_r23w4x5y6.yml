@@ -9,6 +9,11 @@ lat: 41.7572
 lng: -88.3148
 type: "ice"
 description: "ICE agents detained the driver of a red Chevrolet in Aurora in the morning hours."
+civilians: 1
+people_label: detained
+civilian_vehicles: 1
+civilian_vehicle_label: car
+civilian_vehicle_description: red Chevrolet
 tags:
   - aurora
   - detention

@@ -9,6 +9,8 @@ lat: 41.8640
 lng: -87.8534
 type: "protest"
 description: "Broadview police and Cook County sheriff's deputies arrested at least one protester in a violent manner outside the Broadview immigration detention facility."
+civilians: 1
+people_label: arrested
 tags:
   - broadview
   - protest

@@ -4,11 +4,13 @@ source: "social"
 date: "2026-01-18"
 time: "14:00"
 timezone: "America/Chicago"
-location: "Elmwood Park"
-lat: 41.921
-lng: -87.816
+location: "Elmwood Park, Illinois"
+lat: 41.9239
+lng: -87.8173
 type: "ice"
-description: "Two individuals conducted traffic stop in Elmwood Park."
+description: "A traffic stop involving federal agents was reported in Elmwood Park. One person was detained."
+civilians: 1
+people_label: detained
 tags:
   - elmwood-park
   - traffic-stop

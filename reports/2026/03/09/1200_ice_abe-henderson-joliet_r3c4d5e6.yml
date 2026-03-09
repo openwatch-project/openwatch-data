@@ -9,6 +9,8 @@ lat: 41.5373
 lng: -88.0632
 type: "ice"
 description: "One person was arrested in the Abe Street and Henderson Avenue area of Joliet. ICE vehicles were reported in the surrounding area."
+civilians: 1
+people_label: arrested
 tags:
   - joliet
   - detention

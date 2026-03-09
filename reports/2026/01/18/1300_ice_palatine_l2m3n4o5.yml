@@ -4,11 +4,13 @@ source: "social"
 date: "2026-01-18"
 time: "13:00"
 timezone: "America/Chicago"
-location: "Palatine"
-lat: 42.111
-lng: -88.043
+location: "Palatine, Illinois"
+lat: 42.1103
+lng: -88.0342
 type: "ice"
-description: "Police officer assisted with immigration arrest in Palatine as crowd gathered."
+description: "ICE agents made one arrest in Palatine."
+civilians: 1
+people_label: arrested
 tags:
   - palatine
-  - detention
+  - arrest
