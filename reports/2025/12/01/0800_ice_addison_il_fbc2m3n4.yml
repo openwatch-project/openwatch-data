@@ -8,9 +8,7 @@ location: Addison, Carol Stream, Blue Island, Wood Dale, Illinois
 lat: 41.9317
 lng: -87.9892
 type: ice
-description: "ICE confirmed in multiple locations: Addison, Carol Stream, Blue Island, Wood Dale, and several Chicago neighborhoods."
+description: ICE confirmed in multiple locations including Addison, Carol Stream, Blue Island, Wood Dale, and several Chicago neighborhoods.
 tags:
-  - addison
-  - carol-stream
-  - blue-island
-  - wood-dale
+  - multi-location
+  - large-scale

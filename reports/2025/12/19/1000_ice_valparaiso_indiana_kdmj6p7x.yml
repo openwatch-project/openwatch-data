@@ -9,6 +9,10 @@ lat: 41.465637799999996
 lng: -87.04791755226285
 type: ice
 description: ICE agents surrounded a house with three government vehicles present. Approximately 10 agents were involved.
-tags:
-  - large-scale
 officers: 10
+officer_label: ICE agents
+personnel_vehicles: 3
+personnel_vehicle_label: unmarked vehicles
+tags:
+  - residential
+  - large-scale

@@ -8,9 +8,10 @@ location: Little Village, Chicago, Illinois
 lat: 41.8456
 lng: -87.7132
 type: ice
-description: ICE raids in Little Village neighborhood and the western suburb of Cicero. Two American citizens were among those initially detained.
+description: ICE raids in Little Village and Cicero. Two American citizens were among those initially detained.
+civilians: 2
+people_label: detained
 tags:
-  - little-village
-  - cicero
-  - southwest-side
+  - early-morning
   - operation-midway-blitz
+  - us-citizens-detained

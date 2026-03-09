@@ -8,8 +8,9 @@ location: Melrose Park, Illinois
 lat: 41.9006
 lng: -87.8567
 type: ice
-description: Man assaulted by ICE agents while biking home from grocery store.
-individuals: 1
+description: A man was assaulted by ICE agents while biking home from a grocery store in Melrose Park.
+civilians: 1
+people_label: detained
 tags:
-  - assault
-  - detained
+  - force-used
+  - early-morning

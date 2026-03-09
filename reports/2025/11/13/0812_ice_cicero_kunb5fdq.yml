@@ -4,11 +4,12 @@ source: social
 date: 2025-11-13
 time: "08:12"
 timezone: America/Chicago
-location: 13th St and 58th Ave, Cicero, Illinois
+location: 13th Street and 58th Avenue, Cicero, Illinois
 lat: 41.862
 lng: -87.768
 type: ice
-description: ICE sighting at 13th and 58th Ave in Cicero. Individual detained.
-individuals: 1
+description: ICE agents spotted at 13th Street and 58th Avenue in Cicero. One person was detained.
+civilians: 1
+people_label: detained
 tags:
-  - detained
+  - early-morning

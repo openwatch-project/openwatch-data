@@ -5,13 +5,10 @@ date: 2025-10-14
 time: "13:00"
 timezone: America/Chicago
 location: Southeast Side, Chicago, Illinois
-lat: 41.7308
-lng: -87.5547
+lat: 41.7200
+lng: -87.5500
 type: surveillance
-description: Four helicopters and one Blackhawk observed on the southeast side.
-personnel_vehicles: 5
-personnel_vehicle_label: aircraft
+description: Surveillance activity reported on the Southeast Side.
 tags:
-  - helicopter
-  - blackhawk
-  - aerial
+  - mobile
+  - southeast-side

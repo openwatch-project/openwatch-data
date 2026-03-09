@@ -9,3 +9,5 @@ lat: 41.9214
 lng: -87.6513
 type: ice
 description: ICE spotted in Lincoln Park.
+tags:
+  - mobile

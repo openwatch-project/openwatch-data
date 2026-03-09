@@ -4,8 +4,10 @@ source: social
 date: 2025-12-05
 time: "12:00"
 timezone: America/Chicago
-location: Central Ave and 35th St, Cicero, Illinois
+location: Central Avenue and 35th Street, Cicero, Illinois
 lat: 41.83
 lng: -87.765
 type: ice
-description: ICE spotted at Central and 35th.
+description: ICE spotted at Central Avenue and 35th Street in Cicero.
+tags:
+  - mobile

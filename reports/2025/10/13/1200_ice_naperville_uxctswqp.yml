@@ -4,13 +4,10 @@ source: social
 date: 2025-10-13
 time: "12:00"
 timezone: America/Chicago
-location: Endeavor Health Edward Hospital, 801 S Washington St, Naperville, Illinois
-lat: 41.7697
-lng: -88.1537
+location: Naperville, Illinois
+lat: 41.7508
+lng: -88.1535
 type: ice
-description: ICE presence at Edward Hospital. Officers reportedly injured a person during attempted arrest. Hospital security denied ICE entry. Patient kept under care until ICE withdrew.
-individuals: 1
+description: ICE activity reported in Naperville.
 tags:
-  - hospital
-  - injury
-  - denied-entry
+  - mobile

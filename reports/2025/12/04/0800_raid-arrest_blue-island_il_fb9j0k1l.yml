@@ -4,13 +4,14 @@ source: social
 date: 2025-12-04
 time: "08:00"
 timezone: America/Chicago
-location: 12738 Greenwood Ave, Blue Island, Illinois
+location: Greenwood Avenue and Prairie Street, Blue Island, Illinois
 lat: 41.6572
 lng: -87.6803
-type: raid_arrest
-description: Person arrested by individuals in masks near Greenwood and Prairie.
-tags:
-  - blue-island
-  - arrest
+type: ice
+description: One person was arrested by masked individuals near Greenwood Avenue and Prairie Street.
 civilians: 1
 people_label: arrested
+tags:
+  - early-morning
+  - plainclothes
+  - south-suburbs

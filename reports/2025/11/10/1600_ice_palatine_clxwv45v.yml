@@ -9,3 +9,6 @@ lat: 42.1103
 lng: -88.034
 type: ice
 description: ICE on Schiller Street in Palatine.
+tags:
+  - mobile
+  - northwest-suburbs

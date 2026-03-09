@@ -4,14 +4,17 @@ source: social
 date: 2025-12-05
 time: "08:00"
 timezone: America/Chicago
-location: I-90 Roselle Exit, Hoffman Estates, Illinois
+location: I-90 Roselle Road Exit, Hoffman Estates, Illinois
 lat: 42.0334
 lng: -88.0784
 type: ice
-description: 4 out-of-state vehicles with tactical gear observed exiting I-90 at Roselle toward Hoffman Estates and Schaumburg.
-tags:
-  - hoffman-estates
-  - schaumburg
-  - vehicles
+description: Four out-of-state vehicles with agents in tactical gear observed exiting I-90 at Roselle Road, heading toward Hoffman Estates and Schaumburg.
+officers: 4
+officer_label: federal agents
 personnel_vehicles: 4
-personnel_vehicle_label: out-of-state vehicles
+personnel_vehicle_label: unmarked vehicles
+tags:
+  - early-morning
+  - tactical-gear
+  - out-of-state-plates
+  - northwest-suburbs

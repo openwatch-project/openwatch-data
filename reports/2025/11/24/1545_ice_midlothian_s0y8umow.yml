@@ -8,10 +8,10 @@ location: Midlothian, Illinois
 lat: 41.6253
 lng: -87.7248
 type: ice
-description: ICE in Midlothian, across from Bremen. Individual carried into van.
+description: ICE agents in Midlothian. One person was carried into a transport van.
 civilians: 1
 people_label: detained
 personnel_vehicles: 1
 personnel_vehicle_label: van
 tags:
-  - detained
+  - south-suburbs

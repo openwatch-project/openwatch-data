@@ -8,6 +8,7 @@ location: Millennium Park, Chicago, Illinois
 lat: 41.8826
 lng: -87.6226
 type: ice
-description: ICE alert near Millennium Park downtown.
+description: ICE alert near Millennium Park in downtown Chicago.
 tags:
+  - mobile
   - downtown

@@ -4,8 +4,10 @@ source: social
 date: 2025-11-14
 time: "15:37"
 timezone: America/Chicago
-location: Fillmore St and Independence Blvd, Chicago, Illinois
+location: Fillmore Street and Independence Boulevard, Chicago, Illinois
 lat: 41.8642
 lng: -87.7063
 type: ice
-description: ICE spotted at Fillmore and Independence.
+description: ICE spotted at Fillmore Street and Independence Boulevard in Chicago.
+tags:
+  - mobile

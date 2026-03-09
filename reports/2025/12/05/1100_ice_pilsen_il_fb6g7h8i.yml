@@ -8,10 +8,10 @@ location: 21st Place, Pilsen, Chicago, Illinois
 lat: 41.8543
 lng: -87.6563
 type: ice
-description: Two ICE vehicles on 21st Place in Pilsen. Silver pickup truck and dark gray Jeep with tinted windows. Drove past twice.
-tags:
-  - pilsen
-  - vehicles
+description: Two ICE vehicles drove past twice on 21st Place in Pilsen. A silver pickup truck and dark gray Jeep with tinted windows were observed.
 personnel_vehicles: 2
 personnel_vehicle_label: unmarked vehicles
-personnel_vehicle_description: silver pickup truck, dark gray Jeep with tinted windows
+personnel_vehicle_description: silver pickup truck, dark gray Jeep
+tags:
+  - mobile
+  - surveillance

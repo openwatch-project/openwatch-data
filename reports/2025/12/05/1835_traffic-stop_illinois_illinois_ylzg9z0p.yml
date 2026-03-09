@@ -8,12 +8,13 @@ location: Ogden Avenue, Oswego, Illinois
 lat: 41.7151339
 lng: -88.28757765
 type: traffic_stop
-description: Four squad cars pulled over a pickup truck displaying a Mexican flag.
-tags:
-  - detained
-  - mexican-flag
+description: Four squad cars pulled over a pickup truck displaying a Mexican flag on Ogden Avenue in Oswego.
 personnel_vehicles: 4
 personnel_vehicle_label: squad cars
 civilian_vehicles: 1
-civilian_vehicle_label: stopped vehicle
+civilian_vehicle_label: pickup truck
 civilian_vehicle_description: pickup truck with Mexican flag
+tags:
+  - traffic-stop
+  - profiling
+  - west-suburbs

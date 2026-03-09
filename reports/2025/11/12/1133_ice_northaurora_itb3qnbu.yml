@@ -9,7 +9,8 @@ lat: 41.8072
 lng: -88.3234
 type: ice
 description: ICE detained a woman without a warrant in North Aurora.
-individuals: 1
+civilians: 1
+people_label: detained
 tags:
-  - detained
   - no-warrant
+  - west-suburbs

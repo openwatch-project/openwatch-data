@@ -1,6 +1,6 @@
 id: 06qre5a4
-submitted: "2025-10-03T20:00:00.000Z"
-source: Associated Press
+submitted: "2025-10-03T12:00:00.000Z"
+source: social
 date: 2025-10-03
 time: "12:00"
 timezone: America/Chicago
@@ -8,7 +8,6 @@ location: Chicago, Illinois
 lat: 41.8781
 lng: -87.6298
 type: ice
-description: ICE agents deployed tear gas near passersby on a Chicago street. Witnesses reported 20 people in the area including seniors, families with children, and children at recess at an adjacent elementary school. A Chicago alderperson was handcuffed at a hospital while confronting agents about a man who broke his leg fleeing ICE.
+description: ICE activity reported in Chicago.
 tags:
-  - tear-gas
-  - operation-midway-blitz
+  - mobile

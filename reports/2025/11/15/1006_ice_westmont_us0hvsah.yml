@@ -4,10 +4,11 @@ source: social
 date: 2025-11-15
 time: "10:06"
 timezone: America/Chicago
-location: 63rd St and Cass Ave, Westmont, Illinois
+location: 63rd Street and Cass Avenue, Westmont, Illinois
 lat: 41.7959
 lng: -87.9748
 type: ice
-description: ICE spotted at 63rd and Cass, near Mariano's and Walgreens.
+description: ICE spotted at 63rd Street and Cass Avenue in Westmont near Mariano's and Walgreens.
 tags:
-  - retail-area
+  - retail
+  - west-suburbs

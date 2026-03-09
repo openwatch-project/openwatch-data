@@ -7,8 +7,8 @@ timezone: America/Chicago
 location: Evanston, Illinois
 lat: 42.0451
 lng: -87.6877
-type: ice
-description: ICE helicopter reported in Evanston.
+type: surveillance
+description: Surveillance activity reported in Evanston.
 tags:
-  - helicopter
-  - aerial
+  - mobile
+  - north-suburbs

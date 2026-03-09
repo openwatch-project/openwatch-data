@@ -8,7 +8,8 @@ location: East Side, Chicago, Illinois
 lat: 41.7062
 lng: -87.5353
 type: ice
-description: ICE spotted in East Side neighborhood. Schools keeping students indoors past dismissal until parents can pick up.
+description: ICE spotted in the East Side neighborhood. Schools kept students indoors past dismissal until parents could pick them up.
 tags:
   - school
-  - lockdown
+  - school-lockdown
+  - southeast-side

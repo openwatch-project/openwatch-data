@@ -4,11 +4,12 @@ source: social
 date: 2025-10-14
 time: "15:00"
 timezone: America/Chicago
-location: 61st St and Blackstone Ave, Chicago, Illinois
+location: 61st Street and Blackstone Avenue, Woodlawn, Chicago, Illinois
 lat: 41.7845
 lng: -87.5878
 type: ice
-description: ICE presence along 61st and Blackstone, appearing to target schools during dismissal.
+description: ICE presence along 61st Street and Blackstone Avenue, appearing to target the area during school dismissal.
 tags:
   - school
-  - dismissal
+  - school-dismissal
+  - south-side

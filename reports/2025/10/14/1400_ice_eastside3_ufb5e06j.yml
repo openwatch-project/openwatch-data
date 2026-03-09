@@ -4,12 +4,14 @@ source: social
 date: 2025-10-14
 time: "14:00"
 timezone: America/Chicago
-location: 104th St and Avenue M, East Side, Chicago, Illinois
+location: 104th Street and Avenue M, East Side, Chicago, Illinois
 lat: 41.7028
 lng: -87.5275
 type: ice
-description: ICE at 104th and Avenue M, following a red Ford Escape.
+description: ICE agents observed at 104th Street and Avenue M following a red Ford Escape.
 civilian_vehicles: 1
+civilian_vehicle_label: car
 civilian_vehicle_description: red Ford Escape
 tags:
   - pursuit
+  - southeast-side

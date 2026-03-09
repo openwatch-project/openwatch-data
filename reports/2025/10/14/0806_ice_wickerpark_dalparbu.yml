@@ -4,10 +4,10 @@ source: social
 date: 2025-10-14
 time: "08:06"
 timezone: America/Chicago
-location: North Ave and Western Ave, Chicago, Illinois
-lat: 41.9103
-lng: -87.6867
+location: Wicker Park, Chicago, Illinois
+lat: 41.9087
+lng: -87.6806
 type: ice
-description: "Possible ICE at North and Western at 8:06 AM. Three vehicles passed by, drivers wearing neon yellow/green hoodies."
-personnel_vehicles: 3
-personnel_vehicle_label: vehicles
+description: ICE activity reported in Wicker Park neighborhood.
+tags:
+  - mobile

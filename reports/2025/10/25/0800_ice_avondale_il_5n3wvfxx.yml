@@ -9,7 +9,8 @@ lat: 41.9392
 lng: -87.7108
 type: ice
 description: Federal agents detained a man in a parking lot following a confrontation during immigration raids in the Avondale neighborhood.
+civilians: 1
+people_label: detained
 tags:
-  - avondale
-  - northwest-side
+  - early-morning
   - operation-midway-blitz

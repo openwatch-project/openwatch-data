@@ -8,6 +8,7 @@ location: Home Depot, Northlake, Illinois
 lat: 41.917
 lng: -87.8953
 type: ice
-description: ICE presence at Northlake Home Depot.
+description: ICE agents observed at the Home Depot in Northlake.
 tags:
-  - home-depot
+  - retail
+  - west-suburbs

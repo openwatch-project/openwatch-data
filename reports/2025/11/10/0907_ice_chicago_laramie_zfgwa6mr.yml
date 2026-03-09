@@ -1,11 +1,13 @@
-id: g55gryt6
+id: zfgwa6mr
 submitted: "2025-11-10T09:07:00.000Z"
 source: social
 date: 2025-11-10
 time: "09:07"
 timezone: America/Chicago
-location: Laramie Ave near Chicago Ave, Chicago, Illinois
-lat: 41.8956
-lng: -87.7554
+location: Laramie Avenue, Chicago, Illinois
+lat: 41.8781
+lng: -87.7548
 type: ice
-description: ICE on Laramie near Chicago Ave.
+description: ICE activity reported on Laramie Avenue in Chicago.
+tags:
+  - mobile

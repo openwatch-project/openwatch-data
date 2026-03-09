@@ -1,17 +1,13 @@
 id: cq6tiyeq
-submitted: "2025-11-07T12:00:00.000Z"
-source: ABC7 Chicago
+submitted: "2025-11-06T18:00:00.000Z"
+source: social
 date: 2025-11-06
 time: "18:00"
 timezone: America/Chicago
-location: The Loop, Downtown Chicago, Illinois
-lat: 41.8819
-lng: -87.6278
+location: Chicago, Illinois
+lat: 41.8781
+lng: -87.6298
 type: protest
-description: Thousands marched downtown protesting ICE raids. At least 17 people were arrested. One person was injured when a car sped through demonstrators near Wabash and Monroe. Four people were charged with felonies including aggravated battery of a peace officer.
+description: Protest in Chicago against immigration enforcement operations.
 tags:
-  - anti-ice
-  - downtown
-  - loop
-civilians: 1000
-people_label: protesters
+  - community-response

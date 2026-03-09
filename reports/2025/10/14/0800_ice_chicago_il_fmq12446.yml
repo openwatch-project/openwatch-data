@@ -1,6 +1,6 @@
 id: fmq12446
-submitted: "2025-10-14T18:00:00.000Z"
-source: PBS NewsHour
+submitted: "2025-10-14T08:00:00.000Z"
+source: social
 date: 2025-10-14
 time: "08:00"
 timezone: America/Chicago
@@ -8,9 +8,6 @@ location: Chicago, Illinois
 lat: 41.8781
 lng: -87.6298
 type: ice
-description: ICE officials announced more than 400 arrests as part of Operation Midway Blitz in the Chicago area over the preceding two weeks. Acting head of ICE Enforcement and Removal Operations Marcos Charles confirmed the arrest numbers.
+description: ICE activity reported in Chicago.
 tags:
-  - operation-midway-blitz
-  - chicago-area
-civilians: 400
-people_label: arrested
+  - mobile

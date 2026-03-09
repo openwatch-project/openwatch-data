@@ -8,10 +8,9 @@ location: North Center, Chicago, Illinois
 lat: 41.8896201
 lng: -87.6222834953095
 type: ice
-description: ICE agents were observed in the Hamlin and Roscoe (Avondale) area. Witnesses reported masked men wearing bulletproof vests.
+description: ICE agents were observed in the Hamlin and Roscoe area in the Avondale neighborhood. Witnesses reported masked men wearing bulletproof vests.
 tags:
-  - ice-agents
   - witnesses-present
-  - multiple-agents
-  - bulletproof-vests
-officers: unknown
+  - plainclothes
+  - tactical-gear
+  - residential

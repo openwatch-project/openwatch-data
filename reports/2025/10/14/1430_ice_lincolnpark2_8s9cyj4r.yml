@@ -8,6 +8,7 @@ location: Lincoln Park, Chicago, Illinois
 lat: 41.9248
 lng: -87.6498
 type: ice
-description: ICE targeting nannies in Lincoln Park neighborhood.
+description: ICE agents observed targeting nannies in the Lincoln Park neighborhood.
 tags:
-  - targeting
+  - workplace-targeting
+  - residential

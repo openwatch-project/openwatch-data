@@ -9,3 +9,6 @@ lat: 41.9798
 lng: -87.6689
 type: ice
 description: Possible ICE spotting in Andersonville on Clark Street.
+tags:
+  - mobile
+  - unconfirmed

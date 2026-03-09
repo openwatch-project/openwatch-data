@@ -8,6 +8,6 @@ location: Home Depot, Cicero, Illinois
 lat: 41.845
 lng: -87.754
 type: ice
-description: ICE at Home Depot in Cicero.
+description: ICE agents observed at Home Depot in Cicero.
 tags:
-  - home-depot
+  - retail

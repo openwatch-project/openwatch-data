@@ -4,11 +4,12 @@ source: social
 date: 2025-12-04
 time: "12:00"
 timezone: America/Chicago
-location: Mt Prospect, Illinois
+location: Mount Prospect, Illinois
 lat: 42.0664
 lng: -87.9373
 type: surveillance
-description: Drones spotted over Mt Prospect.
+description: Drones spotted over Mount Prospect.
 tags:
-  - mt-prospect
   - drones
+  - aerial
+  - northwest-suburbs

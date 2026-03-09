@@ -8,7 +8,7 @@ location: Walmart, Lockport, Illinois
 lat: 41.5895
 lng: -88.0579
 type: ice
-description: ICE at Walmart in Lockport. Vehicles had Texas license plates.
+description: ICE agents observed at Walmart in Lockport. Vehicles had out-of-state plates.
 tags:
-  - walmart
+  - retail
   - out-of-state-plates

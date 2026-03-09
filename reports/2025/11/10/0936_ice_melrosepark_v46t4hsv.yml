@@ -9,3 +9,5 @@ lat: 41.9006
 lng: -87.8567
 type: ice
 description: ICE active in Melrose Park.
+tags:
+  - mobile

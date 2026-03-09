@@ -9,11 +9,13 @@ lat: 41.5934
 lng: -87.3464
 type: ice
 description: ICE and U.S. Marshals raided a family home, detaining five family members including a 14-year-old. Agents used a battering ram to force entry around 6 AM. Two U.S. citizen siblings were released; parents remain in custody at Broadview and Hammond facilities.
-tags:
-  - ice
-  - home-raid
-  - northwest-indiana
 officers: 6
 officer_label: ICE agents
 civilians: 5
 people_label: detained
+tags:
+  - early-morning
+  - residential
+  - forced-entry
+  - multi-agency
+  - us-citizens-detained
