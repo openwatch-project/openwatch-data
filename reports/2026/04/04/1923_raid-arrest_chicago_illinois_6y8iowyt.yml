@@ -1,0 +1,15 @@
+id: 6y8iowyt
+submitted: "2026-04-05T00:26:12.997Z"
+source: user
+date: 2026-04-04
+time: "19:23"
+timezone: America/Chicago
+location: Chicago, Illinois
+lat: 41.8755616
+lng: -87.6244212
+type: raid_arrest
+description: "ICE agents conducted a raid at the corner of Maple Street and Elm Avenue. They detained five individuals and used three unmarked vehicles: a black Ford Expedition, a white Chevrolet Tahoe, and a gray SUV."
+tags:
+  - detained
+  - 3-people
+civilians: 5
