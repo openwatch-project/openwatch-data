@@ -1,0 +1,14 @@
+id: pap30mht
+submitted: "2026-04-05T04:32:17.639Z"
+source: user
+date: 2026-04-04
+time: "20:05"
+timezone: America/Chicago
+location: East Joliet Street, Crown Point, Indiana
+lat: 41.4161845
+lng: -87.3607846
+type: ice
+description: ICE agents stopped people walking by and in the intersection.
+tags:
+  - pedestrian-stop
+  - intersection-stop
