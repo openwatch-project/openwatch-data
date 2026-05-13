@@ -1,0 +1,17 @@
+id: "083cb403"
+submitted: "2026-05-13T12:59:15.267Z"
+source: "user"
+date: "2026-05-01"
+time: "11:00"
+timezone: "America/Los_Angeles"
+location: "unknown"
+lat: 48.2747559
+lng: -121.7424883
+type: "ice"
+description: "ICE agents detained more than 20 people in an enforcement operation."
+tags:
+  - "large-scale"
+  - "detained"
+  - "multi-agency"
+civilians: 20
+civilian_label: "detained"
